@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HHWeather</string>
+    <string name="title_activity_cityitem_detail_host">6666666666666666666666</string>
+    <string name="title_cityitem_list">city_items</string>
+    <string name="title_cityitem_detail">city_item Detail</string>
+    <string name="app_label">nih</string>
+    <string name="search_hint">sousuo</string>
+</resources>
